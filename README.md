@@ -77,6 +77,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
         * [securityheaders.io](#securityheaders-io)
         * [report-uri.io](#report-uri-io)
         * [clickjacker.io](#clickjacker-io)
+        * [SubdomainWatch](#subdomainwatch)
   * [AWS Lambda](#aws-lambda)
     * [Tools](#tools-1)
       * [PureSec FunctionShield](#puresec-functionshield)
@@ -432,6 +433,11 @@ A free CSP and HPKP reporting service.
 #### [clickjacker.io](https://clickjacker.io)
 
 Test and learn Clickjacking. Make clickjacking PoC, take screenshot and share link. You can test HTTPS, HTTP, intranet & internal sites.
+
+#### [SubdomainWatch](https://subdomainwatch.com/?utm_source=awesome_appsec&utm_medium=directory&utm_campaign=launch_q4)
+
+Continuous attack surface monitoring and Shift-Left IaC security gate preventing subdomain
+takeovers, dangling DNS records, and RFC email hygiene flaws before merge.
 
 # AWS Lambda
 
